@@ -1,2 +1,2 @@
 # ml
-Machine learning and Data Analysis courses programming assignments
+This is my training repository for learning Machine Learning / Deep Learning / Data Analysis using Octave / R / Python.
